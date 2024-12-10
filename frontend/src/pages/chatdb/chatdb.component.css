@@ -1,0 +1,9 @@
+.example-card {
+  max-width: 80em;
+}
+  
+.example-header-image {
+  background-image: url('../../assets/images/JCI-logo.png');
+  background-size: cover;
+}
+  
